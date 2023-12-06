@@ -1,0 +1,39 @@
+body{
+    background-color: skyblue;
+}
+
+div{
+    text-align: center;
+    background-color: white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding-left: 3%;
+    padding-right: 3%;
+    border-radius: 25px;
+}
+
+#in{
+    position: static;
+    font-size: large;
+    width: 90%;
+    height: 30px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: skyblue;
+}
+
+button{
+    background-color: rgb(3, 3, 247);
+    color: white;
+    margin-top: 25px;
+    padding: 10px 25px;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+#demo{
+    color: green;
+    font-size: 25px;
+}

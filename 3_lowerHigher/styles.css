@@ -1,0 +1,44 @@
+div{
+    text-align: center;
+    background-color: white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding-left: 3%;
+    padding-right: 3%;
+    padding-bottom: 3%;
+    border-radius: 25px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: white;
+    box-shadow: 5px 5px 15px -9px black;
+
+}
+
+h1{
+    font-size: 50px;
+    font-weight: 900;
+}
+
+p{
+    font-size: 3em;
+    font-weight: bolder;
+}
+
+input{
+    background-color: white;
+    margin-top: 10px;
+    padding: 10px 25px;
+    font-size: 20px;
+    cursor: pointer;
+    border-width: 1px;
+}
+
+#input1{
+    margin-right: 30px;
+}
+
+#input2{
+    margin-left: 30px;
+}
